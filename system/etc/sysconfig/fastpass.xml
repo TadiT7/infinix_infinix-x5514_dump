@@ -1,0 +1,5 @@
+<!--Transsion Top Secret-->
+<config>
+<!--Track fastpass log-->
+<feature name="com.google.android.feature.FASTPASS_BUILD" />
+</config> 

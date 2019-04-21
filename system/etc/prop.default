@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Fri Dec 7 12:12:06 CST 2018
+ro.bootimage.build.date.utc=1544155926
+ro.bootimage.build.fingerprint=Infinix/H395/Infinix-X5514:8.1.0/O11019/AD-181207V217:user/release-keys
+persist.sys.usb.config=none
